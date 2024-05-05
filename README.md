@@ -1,5 +1,5 @@
 # Cuda-guide
-Install and setup cuda and require library on ubuntu24
+Install and setup cuda and required library on ubuntu24
 
 
 # 1 - Prepare the machine 
